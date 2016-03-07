@@ -1,0 +1,13 @@
+{
+  "minify": true,
+  "options": [
+    "html5printshiv",
+    "html5shiv",
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/ambientlight",
+    "test/audio",
+    "test/blob"
+  ]
+}
